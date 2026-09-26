@@ -162,6 +162,10 @@ _Add your preferred license here (MIT, Apache-2.0, etc.)._
 
 <div align="center">
 
-Built by **Sasi** — B.Tech (AI & ML), Aditya University
+Built by 
+**Sasi** — B.Tech (AI & ML), Aditya University
+**Jyotshna** — B.Tech (CSE), Aditya University
+**Asritha** — B.Tech (CSE), Aditya University
+**Pragnya** — B.Tech (CSE), Aditya University
 
 </div>
